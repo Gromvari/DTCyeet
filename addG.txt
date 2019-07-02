@@ -1,14 +1,14 @@
 ﻿yeet
 
-Ákos added this line for testing.
+Ákos changed this line for testing.
 
-           !!!             
+          _!!!_             
           (O_O)       
            | |
-          | | |
-          | + |
-          +   +
-          =====
-         /     \
-         |     |
+         /| | |\
+        / | + | \
+        \ +   +  \
+        \\\===   |
+         /     \ |
+         |     | |
        d_|     |_q
